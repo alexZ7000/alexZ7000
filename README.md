@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alessandro Lima</h1>
-<h3 align="center">A university developer from Brazil<br><br> <img src="https://github.com/alexZ7000/alexZ7000/assets/78627928/5964d8bd-503c-4f54-acfb-2bbd396db76a" alt="Logo da Mauá" width="300"/> </h3>
+<h3 align="center">A university developer from Brazil 🇧🇷<br><br> <img src="https://github.com/alexZ7000/alexZ7000/assets/78627928/5964d8bd-503c-4f54-acfb-2bbd396db76a" alt="Logo da Mauá" width="300"/> </h3>
 <br>
 
 - 🔭 I’m currently working on [Usina Eco-Cultural](https://github.com/alexZ7000/UsinaEcoCultural) 🐝🐝
