@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Usina Eco-Cultural](https://github.com/alexZ7000/UsinaEcoCultural) 🐝🐝
 
-- 🌱 I’m currently learning **Html, CSS and JavaScript** 🤏🏼😎
+- 🌱 I’m currently learning **Html, CSS, JavaScript and Flutter** 🤏🏼😎
 
 - 💬 Ask me about **Python**🐍
 
