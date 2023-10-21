@@ -4,10 +4,9 @@
 
 - 🔭 I’m currently working on [Usina Eco-Cultural](https://github.com/alexZ7000/UsinaEcoCultural) <img src="https://github.com/alexZ7000/alexZ7000/assets/78627928/0ed686c3-bf76-4278-b504-a2edfd99e1e1" alt="🐝" width="32" height="32">
 
-- 🌱 I’m currently learning **JavaScript and Flutter** <img src="https://github.com/alexZ7000/alexZ7000/assets/78627928/cfbb6d63-aad9-4c16-81c8-68afae07fe50" alt="😎" width="19" height="19">
+- 🌱 I’m currently learning **JavaScript and Flutter** <img src="https://github.com/alexZ7000/alexZ7000/assets/78627928/cfbb6d63-aad9-4c16-81c8-68afae07fe50" alt="😎" width="24" height="24">
 
-- 💬 Ask me about <strong>Python </strong><img src="https://github.com/alexZ7000/alexZ7000/assets/78627928/67edef24-a8b0-4eb8-be6f-5346f92b67f3" alt="🐍" width="19" height="19">
-
+- 💬 Ask me about <strong>Python </strong><img src="https://github.com/alexZ7000/alexZ7000/assets/78627928/67edef24-a8b0-4eb8-be6f-5346f92b67f3" alt="🐍" width="24" height="24">
 
 - 📫 How to reach me **alessandrolimafilho@gmail.com** ✉️
 
