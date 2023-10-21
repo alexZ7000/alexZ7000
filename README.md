@@ -12,10 +12,10 @@
 
 - 🌱 I’m currently learning **JavaScript and Flutter** 🤏🏼😎<picture>
 
-- <p>💬 Ask me about <strong>Python</strong><picture>
+- 💬 Ask me about <strong>Python</strong><picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f40d/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f40d/512.gif" alt="🐍" width="32" height="32">
-</picture></p>
+</picture>
 
 - 📫 How to reach me **alessandrolimafilho@gmail.com** ✉️
 
