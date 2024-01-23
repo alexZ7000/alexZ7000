@@ -8,7 +8,7 @@
 
 - 💬 Ask me about <strong>Python </strong><img src="https://github.com/alexZ7000/alexZ7000/assets/78627928/67edef24-a8b0-4eb8-be6f-5346f92b67f3" alt="🐍" width="24" height="24">
 
-- 📫 How to reach me **alessandrolimafilho@gmail.com** ✉️
+- 📫 How to reach me **aledeveloper@protonmail.com** ✉️
 
 <h2 align="left">Languages and Tools:</h2>
 <p align="center">
