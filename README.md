@@ -2,7 +2,7 @@
 <h3 align="center">A university developer from Brazil <img src="https://github.com/alexZ7000/alexZ7000/assets/78627928/83dff513-1149-4f36-b3ff-997edb96478c" width='20'><br><br> <img src="https://github.com/alexZ7000/alexZ7000/assets/78627928/5964d8bd-503c-4f54-acfb-2bbd396db76a" alt="Logo da Mauá" width="300"/> </h3>
 <br>
 
-- 🔭 I’m currently working on [C.A App](https://github.com/alexZ7000/Aplicativo-C.A-Frontend) <img src="https://github.com/alexZ7000/alexZ7000/assets/78627928/429c8e3d-3464-4dd8-a4d8-e8da2c758e3e" alt="💎" width="32" height="32">
+- 🔭 I’m currently working on [COIL Frontend](https://github.com/Instituto-Maua-de-Tecnologia/coil_frontend) <img src="https://github.com/alexZ7000/alexZ7000/assets/78627928/429c8e3d-3464-4dd8-a4d8-e8da2c758e3e" alt="💎" width="32" height="32">
 
 - 🌱 I’m currently learning **React** <img src="https://github.com/alexZ7000/alexZ7000/assets/78627928/cfbb6d63-aad9-4c16-81c8-68afae07fe50" alt="😎" width="24" height="24">
 
