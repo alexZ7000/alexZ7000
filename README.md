@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [COIL Frontend](https://github.com/Instituto-Maua-de-Tecnologia/coil_frontend) <img src="https://github.com/alexZ7000/alexZ7000/assets/78627928/429c8e3d-3464-4dd8-a4d8-e8da2c758e3e" alt="💎" width="32" height="32">
 
-- 🌱 I’m currently learning **Angular** <img src="https://github.com/alexZ7000/alexZ7000/assets/78627928/cfbb6d63-aad9-4c16-81c8-68afae07fe50" alt="😎" width="24" height="24">
+- 🌱 I’m currently learning **Java Spring Boot** <img src="https://github.com/alexZ7000/alexZ7000/assets/78627928/cfbb6d63-aad9-4c16-81c8-68afae07fe50" alt="😎" width="24" height="24">
 
 - 💬 Ask me about <strong>Python </strong><img src="https://github.com/alexZ7000/alexZ7000/assets/78627928/67edef24-a8b0-4eb8-be6f-5346f92b67f3" alt="🐍" width="24" height="24">
 
